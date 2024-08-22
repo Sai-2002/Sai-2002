@@ -1,9 +1,7 @@
-<h1 align="center">Hello! I am Sai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there. Sai Here.</h1>
+<h3 align="center">I write code like I make coffee—sometimes it's strong and smooth, other times it crashes unexpectedly!</h3>
 
 <img src = "https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" align = "right" width = "300">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-2002&label=Profile%20views&color=0e75b6&style=flat" alt="sai-2002" /> </p>
 
 - 🔭 I’m currently working on [E-Voting using blockchain](https://github.com/Sai-2002/blockChainVoting)
 
